@@ -1,4 +1,5 @@
-[index.html](https://github.com/user-attachments/files/27803230/index.html)
+[index.html](https://github.com/user-attachments/files/27803300/index.html)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -169,7 +170,7 @@
   col.c-freq     { width: 12%; }
 
   thead tr {
-    background: #1a3556;
+    background: #ffffff;
   }
   thead th {
     padding: 0.75rem 0.2rem;
@@ -177,8 +178,8 @@
     font-weight: 600;
     letter-spacing: 0.02em;
     text-transform: uppercase;
-    color: #ffffff;
-    background: #1a3556;
+    color: #1a3556;
+    background: #ffffff;
     text-align: center;
     border: 1px solid rgba(255,255,255,0.1);
     word-break: break-word;
@@ -188,8 +189,8 @@
   thead th.th-practice {
     text-align: left;
     padding-left: 1.5rem;
-    color: #a8d4f5;
-    background: #1a3556;
+    color: #1a3556;
+    background: #ffffff;
   }
 
   tbody tr {
