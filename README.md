@@ -1,5 +1,5 @@
-(https://github.com/user-attachments/files/27782641/index.html)
-
+[index.html](https://github.com/user-attachments/files/27803130/index.html)
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -172,14 +172,17 @@
     background: var(--navy);
   }
   thead th {
-    padding: 0.9rem 0.6rem;
-    font-size: 0.75rem;
+    padding: 0.75rem 0.2rem;
+    font-size: 0.72rem;
     font-weight: 600;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: var(--white);
     text-align: center;
     border: 1px solid rgba(255,255,255,0.1);
+    word-break: break-word;
+    white-space: normal;
+    line-height: 1.3;
   }
   thead th.th-practice {
     text-align: left;
@@ -308,7 +311,7 @@
   }
   .progress-bar-fill {
     height: 100%;
-    background: linear-gradient(90deg, var(--mid), var(--consistently));
+    background: linear-gradient(90deg, var(--mid), var(--often));
     border-radius: 100px;
     transition: width 0.4s ease;
     width: 0%;
