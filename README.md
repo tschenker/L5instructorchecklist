@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/27803300/index.html)
+[index.html](https://github.com/user-attachments/files/27803400/index.html)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -461,12 +461,12 @@
         <col class="c-freq"><col class="c-freq"><col class="c-freq"><col class="c-freq">
       </colgroup>
       <thead>
-        <tr>
-          <th class="th-practice">In the past 2 weeks, I have…</th>
-          <th>Never</th>
-          <th>Rarely</th>
-          <th>Sometimes</th>
-          <th>Often</th>
+        <tr style="background:#f0f6ff;">
+          <th class="th-practice" style="text-align:left;padding:0.75rem 0.75rem 0.75rem 1.5rem;font-size:0.8rem;font-weight:700;color:#1a3556;background:#f0f6ff;border-bottom:2px solid #1a3556;">In the past 2 weeks, I have…</th>
+          <th style="padding:0.75rem 0.2rem;font-size:0.75rem;font-weight:700;color:#1a3556;background:#f0f6ff;text-align:center;border-bottom:2px solid #1a3556;word-break:break-word;">Never</th>
+          <th style="padding:0.75rem 0.2rem;font-size:0.75rem;font-weight:700;color:#1a3556;background:#f0f6ff;text-align:center;border-bottom:2px solid #1a3556;word-break:break-word;">Rarely</th>
+          <th style="padding:0.75rem 0.2rem;font-size:0.75rem;font-weight:700;color:#1a3556;background:#f0f6ff;text-align:center;border-bottom:2px solid #1a3556;word-break:break-word;">Sometimes</th>
+          <th style="padding:0.75rem 0.2rem;font-size:0.75rem;font-weight:700;color:#1a3556;background:#f0f6ff;text-align:center;border-bottom:2px solid #1a3556;word-break:break-word;">Often</th>
         </tr>
       </thead>
       <tbody id="checklist-body"></tbody>
